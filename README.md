@@ -1,2 +1,2 @@
-# SB1-SunblockCore
+# Sunblock Core
 The Core Server and Client mod for communicating solar data
